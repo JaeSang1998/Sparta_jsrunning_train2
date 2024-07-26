@@ -170,7 +170,7 @@ var student =[
       {id : 2, name:null},
       {id : 3, name:"김준현"}
 ];
-// 객체 배렬에서 name 속성이 null인 객체가 있는지 판별을 확인하는 코드를 작성하고 반환값을 출력해주세요
+// 객체 배열에서 name 속성이 null인 객체가 있는지 판별을 확인하는 코드를 작성하고 반환값을 출력해주세요
 
 9.
 var arr = ["banana", "kiwi", "mango", "strawberry", "lime", "orange", "plum", "cherry"];
@@ -228,8 +228,8 @@ var arr = [1, 5, -3, 10, 0, 8];
 1.
 const students = [
   { name: "이재상", scores: [80, 90] },
-  { name: "김준현", scores: [90, 95] }
-  { name: "정윤오", scores: [75, 70] },
+  { name: "김준현", scores: [90, 95] },
+  { name: "정윤오", scores: [75, 70] }
  
 ];
 
